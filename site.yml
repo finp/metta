@@ -9,7 +9,7 @@ content:
   - url: https://github.com/finp/tutorial-web-app.git
     branches: stacey-review
     start_path: docs
-  - url: https://github.com/finp/rhmap.git
+  - url: https://github.com/finp/rhmap-docs.git
     branches: master
     start_path: docs
   - url: https://github.com/aerogear/mobile-docs.git
