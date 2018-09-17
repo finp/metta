@@ -18,7 +18,7 @@ content:
     branches: master
 ui:
   bundle:
-    url: https://github.com/finp/rh-ui/raw/master/build/ui-bundle.zip
+    url: https://github.com/finp/rh-ui/raw/meta/build/ui-bundle.zip
     snapshot: true
 
 asciidoc:
